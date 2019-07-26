@@ -1,1 +1,1 @@
-# pandas-table-tooltip
+# Pandas Table Tooltip
